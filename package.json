@@ -6,6 +6,7 @@
   "author": "im1 <im1@woowahan.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/mocha": "^8.2.2",
     "@typescript-eslint/eslint-plugin": "^4.25.0",
     "@typescript-eslint/parser": "^4.25.0",
     "cypress": "^7.4.0",
